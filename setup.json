@@ -16,7 +16,7 @@
   "entry_points": {},
   "install_requires": [],
   "extras_require": {
-    "dev": [],
+    "dev": ["twine"],
     "test": []
   },
   "package_data": {
