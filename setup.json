@@ -1,8 +1,8 @@
 {
   "name": "bmagick",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Python interface to ImageMagick or GraphicsMagick",
-  "url": "https://gitlab.com/BlackEarth/bmagick",
+  "url": "https://github.com/BlackEarth/bmagick",
   "author": "Sean Harrison",
   "author_email": "sah@bookgenesis.com",
   "license": "MPL 2.0",
